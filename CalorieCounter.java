@@ -1,3 +1,6 @@
+//CalorieCounter© 
+//© Jacob Valdez
+
 import java.util.Scanner;
 
 public class CalorieCounter
